@@ -1,0 +1,16 @@
+{
+  "name": "invoice-service",
+  "version": "1.0.0",
+  "description": "Invoice service for the fullstack final case",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^8.9.2"
+  }
+}
